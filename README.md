@@ -1,5 +1,7 @@
 # Sales Analytics Dashboard
 
+![overview_sales-dashboard](https://raw.githubusercontent.com/nindykaro/sales-analytics-dashboard/refs/heads/main/Overview_sales-dashboard.png)
+
 ## Overview
 This project involves the analysis of a comprehensive retail sales dataset. The goal is to derive actionable insights regarding sales performance, profit margins, and customer trends. The analysis identifies key areas of growth and profitability across different regions, segments, and product categories.
 
